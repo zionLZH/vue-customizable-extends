@@ -9,7 +9,7 @@ npm install vue-customizable-extends -S
 
 Yarn用户
 ````
-yarn add vue-customizable-extends -S
+yarn add vue-customizable-extends
 ````
 
 ## 2. 开始使用
