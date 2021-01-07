@@ -1,0 +1,20 @@
+{
+  "name": "vue-customizable-extends",
+  "version": "1.0.0",
+  "description": "支持开发者以更简单的方式实现extends后操作组件(props/slots/scopedSlots)，支持await/async。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zionLZH/vue-customizable-extends.git"
+  },
+  "keywords": [],
+  "author": "Zion Lin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zionLZH/vue-customizable-extends/issues"
+  },
+  "homepage": "https://github.com/zionLZH/vue-customizable-extends#readme"
+}
