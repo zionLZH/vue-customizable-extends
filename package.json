@@ -1,6 +1,6 @@
 {
   "name": "vue-customizable-extends",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "支持开发者以更简单的方式实现extends后操作组件(props/slots/scopedSlots)，支持await/async。",
   "main": "index.js",
   "scripts": {

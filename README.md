@@ -80,6 +80,7 @@ export default {
         if (!this.enumResult) {
           let res = await ajax(this.props) // 此处需要自行实现ajax逻辑
           this.enumResult = res.Data
+          this.enumLoading = false
         }
         let Options = this.enumResult.map(item => {
           return this.$createElement(Select, {
